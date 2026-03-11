@@ -1,4 +1,5 @@
 # note-mania
+My A-Level project.
 An osu!mania type game which allows you to use your own music to play.
 
 Uses an exciting library called [LibROSA](https://librosa.org/), go check it out.
